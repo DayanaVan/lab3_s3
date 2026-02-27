@@ -1,5 +1,5 @@
 #include <benchmark/benchmark.h>
-#include "../rbtree.hpp"
+#include "../bstree.hpp"
 #include <iostream>
 #include <random>
 
